@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Jay-Tillu/Xylophone/master/assets/GitHub%20Assets/icon.png" alt="Xylophone app logo" width="120" height="120">
+    <img src="https://raw.githubusercontent.com/Jay-Tillu/Spanish-audio-number/master/assets/GitHub%20Assets/ic_launcher.png" alt="Spanish Audio Number app logo" width="120" height="120">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-Music app that plays Xylophone sounds
+An app that teaches you 1 to 10 in spanish.
 </p>
 
 
@@ -34,7 +34,7 @@ Music app that plays Xylophone sounds
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jay-Tillu/Xylophone/master/assets/GitHub%20Assets/xylophone%20ss.png">
+  <img src="https://raw.githubusercontent.com/Jay-Tillu/Spanish-audio-number/master/assets/GitHub%20Assets/spanish%20audio%20number%20app%20gif.gif">
 </p>
 
 ## Plugins
